@@ -13,11 +13,12 @@ const Logo = () => {
     >
       <Link to={"/"}>
         <img
+        className="image-inverted"
           src="openai.png"
           alt="openai"
           width={"30px"}
           height={"30px"}
-          className="image-inverted"
+          
         />
       </Link>
       <Typography

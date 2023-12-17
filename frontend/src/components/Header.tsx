@@ -1,4 +1,4 @@
-import { AppBar, Divider, Toolbar } from "@mui/material";
+import { AppBar, Toolbar } from "@mui/material";
 
 import Logo from "./shared/Logo";
 import { useAuth } from "../context/AuthContext";

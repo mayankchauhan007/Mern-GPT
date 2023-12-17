@@ -8,10 +8,10 @@ html,body{
   font-family: "Roboto Slab", serif;
 }
 
-.image-inverted{
+.image-inverted {
+  -webkit-filter: invert(100%);
   filter: invert(100%);
 }
-
 .nav-link{
   font-weight: 600;
   text-transform: uppercase;
@@ -25,4 +25,18 @@ html,body{
 
 .MuiOutlinedInput-notchedOutline {
   border-color: white !important;
+}
+
+
+.rotate {
+  animation: rotation 8s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
 }
