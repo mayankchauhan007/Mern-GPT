@@ -6,12 +6,15 @@
 This project is an AI chatbot developed using Vite, TypeScript, React, Node.js, Express, and MongoDB. It incorporates various technologies to create a sleek and interactive user interface.
 
 <h2>Chat Preview<h2/>
+  
 ![Screenshot (202)](https://github.com/mayankchauhan007/Mern-GPT/assets/87968724/1cb3e551-be41-4e69-860d-8e5f446c2f71)
 
 <h2>Login UI<h2/>
+  
 ![Screenshot (200)](https://github.com/mayankchauhan007/Mern-GPT/assets/87968724/a12ff8e5-ca15-4df5-b812-a313cfdd4f23)
 
 <h2>SignUp UI<h2/>
+  
 ![Screenshot (201)](https://github.com/mayankchauhan007/Mern-GPT/assets/87968724/dd594a07-a3a8-4431-8079-acd291a50d43)
 
 <!-- Add more screenshots and captions as needed -->
