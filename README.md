@@ -54,6 +54,7 @@ Follow these steps to get the project up and running on your local machine:
 
 <h2>Clone the repository<h2/>: 
 git clone Repo_url
+  
 Install dependencies: npm install 
 <h2> <b> Don't forget to make changes in .env file accordingly </b> </h2>
 Set up environment variables using the .env file
